@@ -47,6 +47,7 @@ const ResetPassword = () => {
         </p>
         <br></br>
         <button type="submit">Update Password</button>
+        <h1>The password is invalid or the user does not have a password.</h1>
       </form>
     </div>
   );

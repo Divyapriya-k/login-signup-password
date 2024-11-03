@@ -70,7 +70,7 @@ const Login = ({setToken}) => {
       <br />
       <br />
       <br />
-      <button>
+      <button class="green-400">
         <Link to={"/forgot-password"}>Forgot Password</Link>
       </button>
     </div>
